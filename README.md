@@ -53,36 +53,8 @@ const anas = {
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="right" width="150"><b>Langages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=php,ts,js,java,py,html,css&theme=dark" alt="languages" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,graphql,rabbitmq&theme=dark" alt="backend" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,vite&theme=dark" alt="frontend" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Bases de données</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma&theme=dark" alt="databases" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Testing</b></td>
-    <td><img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman&theme=dark" alt="testing" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>DevOps &amp; Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,vercel&theme=dark" alt="devops" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Outils</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm,figma,npm&theme=dark" alt="tools" /></td>
-  </tr>
-</table>
+
+<div align="center"> <img src="https://img.shields.io/badge/LANGAGES-0e75b6?style=for-the-badge&labelColor=0d1117" alt="Langages" /> <img src="https://skillicons.dev/icons?i=php,ts,js,java,py,html,css&theme=dark" alt="languages" /> <img src="https://img.shields.io/badge/BACKEND-6f42c1?style=for-the-badge&labelColor=0d1117" alt="Backend" /> <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,graphql,rabbitmq&theme=dark" alt="backend" /> <img src="https://img.shields.io/badge/FRONTEND-0e75b6?style=for-the-badge&labelColor=0d1117" alt="Frontend" /> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,vite&theme=dark" alt="frontend" /> <img src="https://img.shields.io/badge/DATABASES-6f42c1?style=for-the-badge&labelColor=0d1117" alt="Databases" /> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma&theme=dark" alt="databases" /> <img src="https://img.shields.io/badge/TESTING-0e75b6?style=for-the-badge&labelColor=0d1117" alt="Testing" /> <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman&theme=dark" alt="testing" /> <img src="https://img.shields.io/badge/DEVOPS%20%26%20TOOLS-6f42c1?style=for-the-badge&labelColor=0d1117" alt="DevOps and tools" /> <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,vercel,git,github,vscode,figma&theme=dark&perline=9" alt="devops and tools" /> </div> <!-- ⚠️ Pourquoi plus de <table> : GitHub applique automatiquement une bordure grise à chaque cellule, impossible à retirer (les attributs style= sont supprimés). C'est ça qui donnait l'effet « tableau Excel ». En centrant des <img> dans un <div align="center">, il n'y a plus aucune bordure. 💡 Variante ultra-minimaliste — une seule grille, sans catégories : <p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,nodejs,nestjs,tailwind,mysql,postgres,mongodb,redis,docker,githubactions,jest,cypress,git,figma,vercel&theme=dark&perline=10" /> </p> 💡 Thème clair : remplace &theme=dark par &theme=light 💡 Liste complète des icônes : https://github.com/tandpfun/skill-icons#icons-list -->
 
 <!--
   💡 Variante « une seule grille » si tu préfères plus compact :
@@ -98,28 +70,28 @@ const anas = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anas-mounchit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-mounchit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 
-</div>
+</div> -->
 
 ### 🔥 Contribution Streak
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=anas-mounchit&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
-</div>
+</div> -->
 
 ### 📈 Contribution Activity Graph
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anas-mounchit&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" width="100%" />
 
-</div>
+</div> -->
 
 ### 🧾 Profile Summary
 
@@ -137,20 +109,19 @@ const anas = {
 
 ### 🐍 Commit Graph
 
-<div align="center">
+<!-- <div align="center">
 
-<!-- Nécessite le workflow .github/workflows/snake.yml (fourni avec ce fichier) -->
 <img src="https://raw.githubusercontent.com/anas-mounchit/anas-mounchit/output/snake.svg" alt="Snake animation" width="100%" />
 
-</div>
+</div> -->
 
 ### 🏆 Trophies
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=anas-mounchit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
-</div>
+</div> -->
 
 ---
 
@@ -161,7 +132,7 @@ const anas = {
   Les cartes se génèrent automatiquement (titre, description, langage, ⭐, forks).
 -->
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/anas-mounchit/REPO_NAME_1">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anas-mounchit&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&border_radius=10" alt="Project 1" />
@@ -176,9 +147,9 @@ const anas = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anas-mounchit&repo=REPO_NAME_4&theme=tokyonight&hide_border=true&border_radius=10" alt="Project 4" />
 </a>
 
-</div>
+</div> -->
 
-<details>
+<!-- <details>
 <summary><b>📋 Détail des projets</b></summary>
 
 <br/>
@@ -190,7 +161,7 @@ const anas = {
 | **REPO_NAME_3** | Décris ici en une ligne ce que fait le projet | `NestJS` `PostgreSQL` `Docker` | [Repo](https://github.com/anas-mounchit/REPO_NAME_3) · [Demo](#) |
 | **REPO_NAME_4** | Décris ici en une ligne ce que fait le projet | `React` `Node.js` `MongoDB` | [Repo](https://github.com/anas-mounchit/REPO_NAME_4) · [Demo](#) |
 
-</details>
+</details> -->
 
 ---
 
