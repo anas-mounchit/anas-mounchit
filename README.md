@@ -53,45 +53,10 @@ const anas = {
 
 ## 🛠️ Tech Stack
 
+<div align="center"> <img src="https://img.shields.io/badge/LANGAGES-0e75b6?style=for-the-badge&labelColor=0d1117" alt="Langages" /> <br /><br /> <img src="https://skillicons.dev/icons?i=php,ts,js,java,py,html,css&theme=dark" alt="languages" /> </div> <br /> <div align="center"> <img src="https://img.shields.io/badge/BACKEND-6f42c1?style=for-the-badge&labelColor=0d1117" alt="Backend" /> <br /><br /> <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,graphql,rabbitmq&theme=dark" alt="backend" /> </div> <br /> <div align="center"> <img src="https://img.shields.io/badge/FRONTEND-0e75b6?style=for-the-badge&labelColor=0d1117" alt="Frontend" /> <br /><br /> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,vite&theme=dark" alt="frontend" /> </div> <br /> <div align="center"> <img src="https://img.shields.io/badge/DATABASES-6f42c1?style=for-the-badge&labelColor=0d1117" alt="Databases" /> <br /><br /> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma&theme=dark" alt="databases" /> </div> <br /> <div align="center"> <img src="https://img.shields.io/badge/TESTING-0e75b6?style=for-the-badge&labelColor=0d1117" alt="Testing" /> <br /><br /> <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman&theme=dark" alt="testing" /> </div> <br /> <div align="center"> <img src="https://img.shields.io/badge/DEVOPS%20%26%20TOOLS-6f42c1?style=for-the-badge&labelColor=0d1117" alt="DevOps and tools" /> <br /><br /> <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,vercel,git,github,vscode,figma&theme=dark&perline=9" alt="devops and tools" /> </div> 
 
-<div align="center"> <img src="https://img.shields.io/badge/LANGAGES-0e75b6?style=for-the-badge&labelColor=0d1117" alt="Langages" /> <img src="https://skillicons.dev/icons?i=php,ts,js,java,py,html,css&theme=dark" alt="languages" /> <img src="https://img.shields.io/badge/BACKEND-6f42c1?style=for-the-badge&labelColor=0d1117" alt="Backend" /> <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,graphql,rabbitmq&theme=dark" alt="backend" /> <img src="https://img.shields.io/badge/FRONTEND-0e75b6?style=for-the-badge&labelColor=0d1117" alt="Frontend" /> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,vite&theme=dark" alt="frontend" /> <img src="https://img.shields.io/badge/DATABASES-6f42c1?style=for-the-badge&labelColor=0d1117" alt="Databases" /> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma&theme=dark" alt="databases" /> <img src="https://img.shields.io/badge/TESTING-0e75b6?style=for-the-badge&labelColor=0d1117" alt="Testing" /> <img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman&theme=dark" alt="testing" /> <img src="https://img.shields.io/badge/DEVOPS%20%26%20TOOLS-6f42c1?style=for-the-badge&labelColor=0d1117" alt="DevOps and tools" /> <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,vercel,git,github,vscode,figma&theme=dark&perline=9" alt="devops and tools" /> </div> <!-- ⚠️ Pourquoi plus de <table> : GitHub applique automatiquement une bordure grise à chaque cellule, impossible à retirer (les attributs style= sont supprimés). C'est ça qui donnait l'effet « tableau Excel ». En centrant des <img> dans un <div align="center">, il n'y a plus aucune bordure. 💡 Variante ultra-minimaliste — une seule grille, sans catégories : <p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,nodejs,nestjs,tailwind,mysql,postgres,mongodb,redis,docker,githubactions,jest,cypress,git,figma,vercel&theme=dark&perline=10" /> </p> 💡 Thème clair : remplace &theme=dark par &theme=light 💡 Liste complète des icônes : https://github.com/tandpfun/skill-icons#icons-list -->
 
-<!--
-  💡 Variante « une seule grille » si tu préfères plus compact :
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,nodejs,nestjs,tailwind,mysql,postgres,mongodb,docker,git,jest,figma&theme=dark&perline=8" />
-  </p>
 
-  💡 Thème clair : remplace &theme=dark par &theme=light
-  💡 Liste complète des icônes : https://github.com/tandpfun/skill-icons#icons-list
--->
-
----
-
-## 📊 GitHub Analytics
-
-<!-- <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anas-mounchit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-mounchit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-
-</div> -->
-
-### 🔥 Contribution Streak
-
-<!-- <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anas-mounchit&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-</div> -->
-
-### 📈 Contribution Activity Graph
-
-<!-- <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anas-mounchit&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" width="100%" />
-
-</div> -->
 
 ### 🧾 Profile Summary
 
@@ -107,25 +72,9 @@ const anas = {
 
 </div>
 
-### 🐍 Commit Graph
 
-<!-- <div align="center">
 
-<img src="https://raw.githubusercontent.com/anas-mounchit/anas-mounchit/output/snake.svg" alt="Snake animation" width="100%" />
 
-</div> -->
-
-### 🏆 Trophies
-
-<!-- <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anas-mounchit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
-</div> -->
-
----
-
-## 🚀 Featured Projects
 
 <!--
   👉 Remplace REPO_NAME_1..4 par les noms exacts de tes dépôts.
