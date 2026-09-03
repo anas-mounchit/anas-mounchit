@@ -37,7 +37,7 @@ const anas = {
   backend:   ["Laravel", "NestJS", "Node.js", "Express"],
   frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
   databases: ["MySQL", "PostgreSQL", "MongoDB"],
-  learning:  ["Software Architecture", "Testing & Automation", "Cloud / DevOps"],
+  learning:  ["Software Architecture", "Testing & Automation", "Cloud / DevOps", "IA"],
   contact:   "mounchitanas2@gmail.com",
 };
 ```
