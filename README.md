@@ -58,9 +58,9 @@ const anas = {
 
 
 
-### 🧾 Profile Summary
 
-<div align="center">
+
+<!-- <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anas-mounchit&theme=tokyonight" width="100%" alt="Profile Details" />
 
@@ -70,7 +70,7 @@ const anas = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anas-mounchit&theme=tokyonight" width="49%" alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anas-mounchit&theme=tokyonight&utcOffset=1" width="49%" alt="Productive Time" />
 
-</div>
+</div> -->
 
 
 
