@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@anasmounch" target="blank"><img src="https://img.shields.io/twitter/follow/@anasmounch?logo=twitter&style=for-the-badge" alt="@anasmounch" /></a> </p>
 
-- 🔭 I’m currently working on **I'm currently working on Full Stack web applications, building projects with Laravel, Next.js, Node.js & NestJS, while improving my skills in Software Testing & Automation, TypeScript, React, Software Architecture, and exploring Cloud & DevOps technologies.**
+- 🔭 I’m currently working on ** Full Stack web applications, building projects with Laravel, Next.js, Node.js & NestJS, while improving my skills in Software Testing & Automation, TypeScript, React, Software Architecture, and exploring Cloud & DevOps technologies.**
 
 - 👯 I’m looking to collaborate on **Open-source projects, Full Stack Web Applications, and interesting projects using Laravel, React, Next.js, NestJS, TypeScript and AI.**
 
