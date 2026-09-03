@@ -1,3 +1,10 @@
+<!--
+  ============================================================
+   README de profil GitHub — anas-mounchit
+   À placer dans le dépôt : github.com/anas-mounchit/anas-mounchit
+   (dépôt public + fichier nommé exactement README.md)
+  ============================================================
+-->
 
 <div align="center">
 
@@ -46,47 +53,46 @@ const anas = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="right" width="150"><b>Langages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,ts,js,java,py,html,css&theme=dark" alt="languages" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,express,graphql,rabbitmq&theme=dark" alt="backend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,vite&theme=dark" alt="frontend" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Bases de données</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma&theme=dark" alt="databases" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Testing</b></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,cypress,selenium,postman&theme=dark" alt="testing" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>DevOps &amp; Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,vercel&theme=dark" alt="devops" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Outils</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm,figma,npm&theme=dark" alt="tools" /></td>
+  </tr>
+</table>
 
-### Langages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!--
+  💡 Variante « une seule grille » si tu préfères plus compact :
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,nodejs,nestjs,tailwind,mysql,postgres,mongodb,docker,git,jest,figma&theme=dark&perline=8" />
+  </p>
 
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-
-### Bases de données
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tests, DevOps & Outils
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+  💡 Thème clair : remplace &theme=dark par &theme=light
+  💡 Liste complète des icônes : https://github.com/tandpfun/skill-icons#icons-list
+-->
 
 ---
 
@@ -190,25 +196,41 @@ const anas = {
 
 ## 🤝 Connect with me
 
-<div align="center">
+<p align="center">
+  <a href="mailto:mounchitanas2@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="52" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anas-mounchit" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="52" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/anasmounch" target="_blank" title="X / Twitter">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="52" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/anas_mounchit" target="_blank" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="52" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/YOUR_SO_ID" target="_blank" title="Stack Overflow">
+    <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" width="52" alt="Stack Overflow" />
+  </a>
+</p>
 
-<a href="mailto:mounchitanas2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/anasmounch" target="_blank">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://instagram.com/anas_mounchit" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://fb.com/anas.mounchit" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
+<p align="center">
+  <a href="mailto:mounchitanas2@gmail.com"><b>mounchitanas2@gmail.com</b></a>
+</p>
 
-</div>
+<!--
+  ℹ️ Facebook n'existe pas dans skillicons. Si tu y tiens vraiment, garde-le en badge :
+  <a href="https://fb.com/anas.mounchit"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  Sinon, mieux vaut le retirer d'un profil GitHub pro.
+-->
 
 ---
 
