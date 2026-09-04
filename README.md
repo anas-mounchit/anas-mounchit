@@ -6,7 +6,7 @@
   ============================================================
 -->
 
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=180&section=header&text=Anas%20Mounchit&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" alt="banner" />
 
