@@ -76,11 +76,6 @@ const anas = {
 
 
 
-<!--
-  👉 Remplace REPO_NAME_1..4 par les noms exacts de tes dépôts.
-  Les cartes se génèrent automatiquement (titre, description, langage, ⭐, forks).
--->
-
 <!-- <div align="center">
 
 <a href="https://github.com/anas-mounchit/REPO_NAME_1">
