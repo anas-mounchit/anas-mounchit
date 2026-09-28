@@ -126,7 +126,7 @@ const anas = {
   &nbsp;&nbsp;
   <a href="https://twitter.com/anasmounch" target="_blank" title="X / Twitter">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="52" alt="Twitter" />
-  </a>
+  </a>    
   &nbsp;&nbsp;
   <a href="https://instagram.com/anas_mounchit" target="_blank" title="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="52" alt="Instagram" />
